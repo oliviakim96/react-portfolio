@@ -1,8 +1,9 @@
-import logo from './logo.svg';
+
 import React, { useState } from "react";
 import Header from './components/Header/Header';
 import Nav from './components/Nav/Navbar';
 import Main from './components/Main/Main'
+import Footer from './components/Footer/Footer';
 function App() {
   const [pages] = useState([
     {
@@ -25,10 +26,7 @@ function App() {
       currentPage={currentPage}>
       </Nav>
       <Main/>
-      <footer>
-
-      </footer>
-      
+     <Footer/> 
       </div>
   );
 }

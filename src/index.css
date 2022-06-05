@@ -28,3 +28,7 @@ h3{
   display: flex;
   flex-direction: column;
 }
+.Github{
+   display:flex;
+   justify-content: center;
+}
