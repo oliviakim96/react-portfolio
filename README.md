@@ -31,4 +31,8 @@
   ![alt text](./screenshot.png)
 
  ## url
+<<<<<<< HEAD
    [a link](https://react-portfolio-oli.herokuapp.com/)
+=======
+   [a link](http://192.168.1.249:3000/)
+>>>>>>> 7f4ed2728b59cd8a11e3c1975daca2112630d743
