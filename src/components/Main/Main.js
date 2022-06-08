@@ -14,9 +14,11 @@ function Main() {
     </span>
       </div>
     
-      <div>
+      <div className='Project-Area'>
       <h3>Work</h3> 
-  <Projectcards/>
+    {<Projectcards/>}
+    
+  
     </div>
    </div>
   )
